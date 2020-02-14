@@ -1,0 +1,19 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "Populate a site using JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass scss/styles.scss css/styles.css -w"
+  },
+  "author": "Logan Robbins",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {}
+}
